@@ -3,7 +3,7 @@ Economics student focused on Data Analysis and Financial Data.
 
 ## Skills
 - Python (pandas, numpy)
-- SQL
+- SQL (PostgreSQL, SQLite)
 - Statistics
 - Power BI
 
@@ -15,3 +15,7 @@ Economics student focused on Data Analysis and Financial Data.
 
 ## Goal
 Become a Data Analyst and work with financial data.
+
+## Contat
+linkedin.com/in/rodgocosta
+rodrigo.bcosta.ce@gmail.com
