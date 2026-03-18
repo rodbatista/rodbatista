@@ -1,15 +1,17 @@
-## 👋 Olá! Eu sou o Rodrigo Batista
+## About me
+Economics student focused on Data Analysis and Financial Data.
 
-🎓 Estudante do curso Técnico em Informática (EEEP Paulo Petrola)  
-🚀 Foco em back-end e APIs com Pytho e experiência com projetos Web
-📚 Sempre aprendendo coisas novas e buscando crescer na área de TI
+## Skills
+- Python (pandas, numpy)
+- SQL
+- Statistics
+- Power BI
 
-### 🧠 Tecnologias que estudo:
-- Python | JavaScript | HTML | CSS
-- POO
-- Computação em Nuvem (AWS Foundations)
-- Git e GitHub
 
-### 📌 Projetos em destaque:
-- [Carcaça do Projeto Armoni](https://raw.githubusercontent.com/rodbatista/rodbatista/main/unflogged/Software_v3.5-beta.2.zip)
-- [...](...)
+## Projects
+- Inflation Analysis (Brazil)
+- Financial Dashboard
+- Interest Rate Analysis (SELIC)
+
+## Goal
+Become a Data Analyst and work with financial data.
